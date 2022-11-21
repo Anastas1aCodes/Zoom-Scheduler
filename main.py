@@ -1,5 +1,5 @@
 ###SETTINGS###
-ZOOM_URL = "https://nyp-sg.zoom.us/j/88526538027?pwd=V1UvY1Y3elRwRUhtSXZIQ1hrOHZBdz09"
+ZOOM_URL = "https://google.com"
 ZOOM_TIME = '09:01:00' #HH:MM:SS format
 ZOOM_DAY = 'Monday'
 
